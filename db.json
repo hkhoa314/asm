@@ -1,0 +1,95 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "To do 1",
+      "complete": true
+    },
+    {
+      "title": "To to 4 sdfsdafsaf",
+      "complete": true,
+      "id": 5
+    },
+    {
+      "title": "fsdafsdafdsa Update",
+      "complete": true,
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "áo phông",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sK-vCdQkyU7aXl7BE9FMrBuJfBCSNyAh0A&s",
+      "price": "40",
+      "category": "2",
+      "id": 4
+    },
+    {
+      "name": "Sản phẩm 5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQibr_FJjXgUeS1Etzs6t8YI5fHFlG-HAR7Hg&s",
+      "price": 500000,
+      "category": "1",
+      "id": 5
+    },
+    {
+      "name": "san pham 3",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": "200",
+      "category": "1",
+      "id": 11
+    },
+    {
+      "name": "san pham 3",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": "200",
+      "category": "1",
+      "id": 12
+    },
+    {
+      "name": "abc aaaaa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2sK-vCdQkyU7aXl7BE9FMrBuJfBCSNyAh0A&s",
+      "price": "2000",
+      "category": "1",
+      "id": 13
+    },
+    {
+      "name": "san pham",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": "1000",
+      "category": "2",
+      "id": 14
+    }
+  ],
+  "categories": [
+    {
+      "name": "san pham ",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "id": 1
+    },
+    {
+      "name": "Iphone 15",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "hoa@gmail.com",
+      "password": "$2a$10$DTwUuLYbIVIz7YBsvka7reeAcNgR5JkBFTemC0udZ7nBdE24Hy3Em",
+      "name": "Hoang Ky Hoa ",
+      "id": 1
+    },
+    {
+      "email": "atuny0@sohu.com",
+      "password": "$2a$10$inuZf1ASLMXj1U2jVBZOYOWYvJk0pAqdZptwo/gL5qng9qg4YnPQe",
+      "name": "Hoang Ky Hoa ",
+      "id": 2
+    },
+    {
+      "email": "hoahh1@gmail.com",
+      "password": "$2a$10$cawXnobHBa4qa/XqEgJLtuYFgi97pIssdbvnKmhKTQzuZFjwJtYYq",
+      "name": "Hoang Ky Hoa ",
+      "id": 3
+    }
+  ]
+}
